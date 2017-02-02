@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloRoboelectricDemo</string>
+    <string name="new_activity">New Activity</string>
+
+    <string name="WELCOME_STRING">Hello World, MyActivity</string>
+    <string name="WELCOME_TOAST">Toasting, toasting …</string>
+    <string name="NEXT_BUTTON_TEXT">Next Screen</string>
+    <string name="CRAZY_BUTTON_TEXT">Back</string>
+</resources>
