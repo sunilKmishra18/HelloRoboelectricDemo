@@ -33,6 +33,11 @@ public class MainActivity extends Activity {
             }
         });
     }
+
+    /**
+     * Show Toast Message
+     * @param string
+     */
     public void shortToast(String string) {
         Toast.makeText(this, string, Toast.LENGTH_SHORT).show();
     }
